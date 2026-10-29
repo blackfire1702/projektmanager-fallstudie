@@ -1,0 +1,13 @@
+# Laufzeit-Datenbank: wird von setup.php erzeugt und aendert sich im Betrieb.
+/database/*.sqlite
+
+# Der komplette docs-Ordner (Ausarbeitung, Screenshots, Diagramme) bleibt lokal
+# und gehoert nicht ins oeffentliche Repo.
+/docs/
+
+# Betriebssystem-/Editor-Dateien
+Thumbs.db
+.DS_Store
+*.swp
+.idea/
+.vscode/

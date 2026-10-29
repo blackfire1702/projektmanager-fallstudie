@@ -1,0 +1,2 @@
+# Platzhalter, damit der leere Ordner "database" im Repository erhalten bleibt.
+# Die eigentliche SQLite-Datei wird von setup.php erzeugt (siehe .gitignore).
